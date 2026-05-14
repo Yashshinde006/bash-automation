@@ -54,8 +54,11 @@ log cleanup runs daily at 1 AM
 
 ---
 Key Learnings
+---
+
 Linux automation
 Shell scripting
 Task scheduling
 System monitoring
+---
 Backup management
