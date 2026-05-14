@@ -44,6 +44,7 @@ Creates backup archive files.
 Cron scheduling configuration was documented for Linux environments.
 
 0 2 * * * /path/to/backup.sh
+
 0 1 * * * /path/to/log_cleanup.sh
 
 Meaning:
